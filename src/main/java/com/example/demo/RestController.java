@@ -12,10 +12,6 @@ public class RestController {
         return "changesss";
     }
 
-    @GetMapping()
-    public String getInit(){
-        return "get init";
-    }
 
 
 }
