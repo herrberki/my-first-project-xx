@@ -8,7 +8,7 @@ public class RestController {
 
     @PostMapping()
     public String init(){
-        return "hello";
+        return "jello";
     }
 
 
